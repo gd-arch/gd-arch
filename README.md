@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Dubey @gd-arch
-- 👀 I’m interested in Java, Machine Learning and Flutter  
+- 👀 I’m interested in Java, Spring boot and nodejs 
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 📫 How to reach me -mail at- gd13471944@gmail.com
 
